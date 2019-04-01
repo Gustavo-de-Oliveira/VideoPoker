@@ -1,4 +1,8 @@
 # VideoPoker
+Gustavo de Oliveira silva
+ICMC-USP
+2019
+
 Programa que simula um jogo de poker(solo) no terminal
 
 1- Escolhe o quanto de créditos quer apostar
